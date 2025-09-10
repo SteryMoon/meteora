@@ -1,2 +1,2 @@
-# METEOREA 
+# METEORA 
 https://meteora-lyart.vercel.app
